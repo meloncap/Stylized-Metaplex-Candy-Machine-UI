@@ -331,7 +331,7 @@ const Home = (props: HomeProps) => {
                         }}
                       >
                       
-                      compheadz.io
+                      xwaifuz.io
                       </Button>
                     </Typography>
         </Grid>
@@ -386,7 +386,7 @@ const Home = (props: HomeProps) => {
         }}
           >
                     <Typography variant="h6">
-                      Comp Headz
+                      xwaifuz
                     </Typography>
         </Grid>
         <Grid
@@ -656,7 +656,7 @@ const Home = (props: HomeProps) => {
       
       }}>
       <h2>
-      Collect the Limited edition of Comp Headz NFT on Solana !
+      Collect the Limited edition of xwaifuz NFT on Solana !
       </h2>
       </div>
       
